@@ -2,4 +2,4 @@ README.md
 1)Сдача проекта Путешествия по России: адаптивная вёрстка.
 2)В проекте использованны вид display:grid.А также сделанна адаптивная верстка,которая подстраиваеться под разные экраны.
 3)Конкретных планов нету.
-4)Ссылка:https://github.com/RomanVlasik/PROEKT__TREVELRF/tree/main
+4)Ссылка:https://github.com/RomanVlasik/Russuan-trevel
